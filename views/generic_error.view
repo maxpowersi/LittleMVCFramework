@@ -1,0 +1,9 @@
+<div class="page-header" style="padding-top: 20px;">
+	<h1></h1>
+</div>
+<p class="lead">
+	<h2>An error has been ecounter</h3>
+	<?php PrintOut($msg); ?>   
+	<br/> 
+	<img src="res/img/error.png" width="150px" height="150px">
+</p>

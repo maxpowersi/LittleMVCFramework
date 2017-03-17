@@ -5,7 +5,7 @@
 
         foreach (glob("routing/*.routing") as $file) 
         {
-            $fileStream = file("routing/".$file);		
+            $fileStream = file($file);		
             foreach ($fileStream as $line) 
             {
                 $lineSplitted = explode(':', $line);
