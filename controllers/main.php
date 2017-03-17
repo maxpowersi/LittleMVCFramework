@@ -1,9 +1,4 @@
 <?php
-	function NotFound()
-	{
-		Render("not_found");
-	}
-
 	function Home()
 	{
 		Render("home");
@@ -13,7 +8,7 @@
 	{
 		$Payloads = array();
 
-		$archivo = file("controllers/payloads.txt");		
+		$archivo = file("data/payloads.txt");		
 		foreach ($archivo as $line) 
 		{
 			$Payloads[] = $line;

@@ -1,0 +1,3 @@
+tool_name,tool_version,test1_result,test2_result,test3_result,test4_result,test4_result,test5_result
+Acunetix,10,no,no,no,no,no,yes
+Burp,1.7.x,no,no,no,no,no,yes
