@@ -1,0 +1,3 @@
+<h3>Example.</h3>
+<br/>
+<button type="button" class="btn btn-default" onclick="window.history.back();">Back</button>

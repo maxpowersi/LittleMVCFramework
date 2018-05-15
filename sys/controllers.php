@@ -30,7 +30,7 @@
 		foreach ($properties as $key => $value) 
 			${$key} = $value;	
 
-        include "/../views/". $view . ".view";
+        include "views/". $view . ".view";
 	}
 
 	//Render a view, sending many variables to it

@@ -1,12 +1,25 @@
-<div class="page-header" style="padding-top: 20px;">
-	<h1>Home</h1>
-</div>
-<p class="lead">iNoSql is a web application with challenges about no sql injection. It was created with the purpose of learn about this vulnerability. The applicaion was developmented with many free open source technologies.</p>
-<p class="lead">
-	<img src="res/img/apache.png" width="300px" height="100px">
-	<img src="res/img/php.png" width="300px" height="100px">
-	<img src="res/img/mongdb.png" width="300px" height="100px">
-	<img src="res/img/bootstrap.png" width="100px" height="100px">
-	<img src="res/img/jquery.png" width="200px" height="50px">      
-	<img src="res/img/lmvcf.png" width="200px" height="50px">      
-</p>
+<form method="post">
+	<div class="form-group">
+		<label for="entidad">Test</label>
+		<select class="form-control" id="entidad" name="entidad"  style="width: 30%;">
+			<option>Test</option>
+		</select>
+	</div>
+	<div class="form-group">
+		<label for="servicio">Test</label>
+		<select class="form-control" id="servicio" name="servicio"  style="width: 30%;">
+			<option>mobile</option>
+		</select>
+	</div>
+	<div class="form-group">
+		<label for="servicio">Test</label>
+		<select class="form-control" id="metodo" name="metodo"  style="width: 30%;">
+			<option>manual</option>
+		</select>
+	</div>
+	<div class="form-group">
+		<label for="url">Test</label>
+		<input type="text" name="sitio" id="sitio" class="form-control" style="width: 30%;" />
+	</div>
+	<button type="submit" class="btn btn-default">Denunciar</button>
+</form>

@@ -1,53 +1,39 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>iNoSql</title>
-	<link rel="icon" href="res\img\icon.png">
-	<link rel="stylesheet" type="text/css" href="res\bootstrap\css\bootstrap.css">
-    <link rel="stylesheet" type="text/css" href="res\bootstrap\css\bootstrap-theme.css">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-    <script src="res\bootstrap\js\bootstrap.js"></script> 
-	<script src="https://cdn.rawgit.com/google/code-prettify/master/loader/run_prettify.js"></script>
-	<style>
-    	.prettyprint ol.linenums > li { list-style-type: decimal; }
-		.lead { font-size: 17px; }
-	</style>  
+    <title>Exampleg</title>
+	<link rel="stylesheet" href="res/bootstrap/css/bootstrap.min.css">
+	<link rel="stylesheet" href="res/bootstrap/css/bootstrap-theme.min.css">
+	<script src="res/jquery-3.3.1.min.js"></script>
+	<script src="res/bootstrap/js/bootstrap.min.js"></script>
 </head>
 <body>
     <nav class="navbar navbar-default navbar-fixed-top">
 		<div class="container">
 			<div class="navbar-header">
 				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-				<span class="sr-only">Toggle navigation</span>
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
+					<span class="sr-only"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
 				</button>
-				<a class="navbar-brand" href="#">iNoSql <?php PrintOut($Version) ?></a>
+				<a class="navbar-brand" href="#">Example</a>
 			</div>
 			<div id="navbar" class="collapse navbar-collapse">
-				<ul class="nav navbar-nav">
-				<li id="menu-index"><a href="home">Home</a></li>
-				<li id="menu-index"><a href="config">Setup</a></li>
-				<li id="menu-index"><a href="benchmark">Benchmark</a></li>
-				<li id="menu-index"><a href="payloads">List of Payloads</a></li>
-				<li class="dropdown">
-					<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Challenges <span class="caret"></span></a>
-					<ul class="dropdown-menu">
-					<li><a href="test1">1 - Users search</a></li>
-					<li><a href="test2">2 - Orders search</a></li>
-					<li><a href="test3">3 - Customers information</a></li>
-					<li><a href="test4">4 - Orders search</a></li>
-					<li><a href="test5">5 - ustomers information</a></li>
-					<li><a href="test6">6 - Login JSON</a></li>
-					</ul>
-				</li>
-				</ul>
 			</div>
 		</div>
 	</nav>
     <div class="container">
-		<?php PrintContent($Content) ?>
+		<div class="container">
+			<div class="page-header" style="padding-top: 20px;">
+				<h1>Example</h1>
+			</div>
+			<div>
+				<?php PrintContent($Content) ?>
+			</div>
+			<div>
+			</div>
+		</div>
     </div>
 </body>
 </html>
