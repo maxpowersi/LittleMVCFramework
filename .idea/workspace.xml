@@ -1,45 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="637bd583-a19e-4c1d-bb29-c79b70828701" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/configuration/version.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/controllers/about.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/controllers/home.php" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/home.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/controllers/login.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/example.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/intro_text.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/bootstrap/css/bootstrap-theme.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/bootstrap/css/bootstrap-theme.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/bootstrap/css/bootstrap-theme.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/res/bootstrap/css/bootstrap-theme.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/bootstrap/css/bootstrap-theme.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/bootstrap/css/bootstrap.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/bootstrap/css/bootstrap.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/bootstrap/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/res/bootstrap/css/bootstrap.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/bootstrap/css/bootstrap.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/bootstrap/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/bootstrap/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/bootstrap/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/bootstrap/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/bootstrap/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/bootstrap/js/bootstrap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/bootstrap/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/res/bootstrap/js/bootstrap.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/bootstrap/js/npm.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/img/bootstrap.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/img/jquery.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/img/logo.fw.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/img/php.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/routing/main.routing" beforeDir="false" afterPath="$PROJECT_DIR$/routing/main.routing" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sys/configurator.php" beforeDir="false" afterPath="$PROJECT_DIR$/sys/configurator.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sys/controllers.php" beforeDir="false" afterPath="$PROJECT_DIR$/sys/controllers.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sys/file.php" beforeDir="false" afterPath="$PROJECT_DIR$/sys/file.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sys/request.php" beforeDir="false" afterPath="$PROJECT_DIR$/sys/request.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sys/response.php" beforeDir="false" afterPath="$PROJECT_DIR$/sys/response.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sys/views.php" beforeDir="false" afterPath="$PROJECT_DIR$/sys/views.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/about.view" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/home.view" beforeDir="false" afterPath="$PROJECT_DIR$/views/home.view" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/login.view" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/main_view.view" beforeDir="false" afterPath="$PROJECT_DIR$/views/main_view.view" afterDir="false" />
-    </list>
+    <list default="true" id="637bd583-a19e-4c1d-bb29-c79b70828701" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -132,34 +94,35 @@
       <option name="presentableId" value="Default" />
       <updated>1526407601316</updated>
       <workItem from="1526407606251" duration="1175000" />
+      <workItem from="1526412777894" duration="74000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1175000" />
+    <option name="totallyTimeSpent" value="1249000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -215,13 +178,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/controllers/Exception.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/Exception.php" />
     <entry file="file://$PROJECT_DIR$/sys/controllers.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-362" />
