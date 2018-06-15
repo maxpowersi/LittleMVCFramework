@@ -3,10 +3,10 @@
     {
         $routes = array();
 
-        foreach (glob("routing/*.routing") as $file) 
+        foreach (glob("routing/*.routing") as $file)
         {
-            $fileStream = file($file);		
-            foreach ($fileStream as $line) 
+            $fileStream = file($file);
+            foreach ($fileStream as $line)
             {
                 $lineSplitted = explode(':', $line);
                 $key = $lineSplitted[0];
@@ -17,12 +17,12 @@
 
         return $routes;
     }
-
+    //Testing Atom IDE
     function loader_LoadDependencies($path)
     {
-        foreach (glob("$path/*.php") as $file) 
+        foreach (glob("$path/*.php") as $file)
         {
             include($file);
-        }           
+        }
     }
 ?>
