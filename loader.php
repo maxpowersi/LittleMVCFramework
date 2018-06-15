@@ -17,7 +17,7 @@
 
         return $routes;
     }
-    //Testing Atom IDE
+
     function loader_LoadDependencies($path)
     {
         foreach (glob("$path/*.php") as $file)
