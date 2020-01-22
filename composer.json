@@ -1,0 +1,8 @@
+{
+    "name": "maxpowersi/littlemvcframework",
+    "description": "MVM micro framework for php",
+    "version": "1.0",
+    "require": {
+        "phpmailer/phpmailer": "5.2.*"
+    }
+}
